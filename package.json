@@ -1,0 +1,15 @@
+{
+  "name": "cleangrey-syntax",
+  "theme": "syntax",
+  "version": "1.8.4",
+  "description": "A grey syntax theme",
+  "keywords": [
+    "grey",
+    "syntax"
+  ],
+  "repository": "https://github.com/atom/one-dark-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  }
+}
